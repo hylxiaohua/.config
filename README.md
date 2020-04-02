@@ -72,3 +72,14 @@ I use `adapta-gtk-theme` and `arc-icon-theme`.
 
 ## Arch Packages I Installed:
 See [my-packages.txt](https://github.com/theniceboy/.config/blob/master/my-packages.txt)
+
+
+## 各文件的作用
+jesseduffield: lazygit
+llpp.conf:  一种Pdf阅读器
+mutt： 邮件
+omf: 不清楚
+pudb：python debug
+vimium： 一种在浏览器上用vim的东西
+neofetch：类似screenfetch 装逼专用。
+
