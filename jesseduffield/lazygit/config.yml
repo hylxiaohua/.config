@@ -14,14 +14,18 @@ gui:
   scrollheight: 2
   scrollpastbottom: true
   theme:
-    activebordercolor:
-    - cyan
-    - bold
+    lightTheme: false
+    activeBorderColor:
+      - cyan
+      - bold
     inactivebordercolor:
-    - white
-    lighttheme: false
-    optionstextcolor:
-    - blue
+      - white
+    optionsTextColor:
+      - blue
+    selectedLineBgColor:
+      - default
+    selectedRangeBgColor:
+      - blue
 reporting: "off"
 splashupdatesindex: 0
 startuppopupversion: 1
@@ -42,6 +46,8 @@ keybinding:
     scrollDownMain-alt2: '<c-j>'
     undo: '<c-z>'
     redo: '<c-r>'
+    diffingMenu: 'M'
+    filteringMenu: '<c-f>'
   files:
     ignoreFile: 'I'
   commits:
@@ -50,3 +56,4 @@ keybinding:
     toggleDiffCommit: 'l'
   branches:
     viewGitFlowOptions: 'I'
+    setUpstream: 'U'

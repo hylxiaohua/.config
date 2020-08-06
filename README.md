@@ -1,4 +1,7 @@
 # My config...
+
+[中文版](./README_cn.md)
+
 This config folder includes `i3` and `alacritty` config, however, I'm using [dwm](https://github.com/theniceboy/dwm) and [st](https://github.com/theniceboy/st) now.
 
 BTW, my scripts are in [this repo](https://github.com/theniceboy/scripts).
@@ -72,14 +75,3 @@ I use `adapta-gtk-theme` and `arc-icon-theme`.
 
 ## Arch Packages I Installed:
 See [my-packages.txt](https://github.com/theniceboy/.config/blob/master/my-packages.txt)
-
-
-## 各文件的作用
-jesseduffield: lazygit
-llpp.conf:  一种Pdf阅读器
-mutt： 邮件
-omf: 不清楚
-pudb：python debug
-vimium： 一种在浏览器上用vim的东西
-neofetch：类似screenfetch 装逼专用。
-
